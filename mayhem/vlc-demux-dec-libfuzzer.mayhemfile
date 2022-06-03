@@ -1,0 +1,4 @@
+project: PROJECT
+target: vlc-demux-dec-libfuzzer
+cmds:
+- cmd: /out/vlc-demux-dec-libfuzzer
